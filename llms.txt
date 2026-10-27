@@ -1,0 +1,16 @@
+# Zbrojní test
+
+> Bezplatný český trenažér na teoretickou část zkoušky odborné způsobilosti pro zbrojní oprávnění (zákon č. 90/2024 Sb., NV č. 238/2025 Sb.). Obsahuje všech 837 oficiálních otázek MV ČR (platnost od 1. 1. 2026) se správnými odpověďmi.
+
+Test: 30 otázek, 40 minut; obecné oprávnění ≥ 26 správně, rozšířené ≥ 28 správně.
+
+## Klíčové stránky
+- [Otázky po částech](https://zbrojnitest.cz/otazky/)
+- [Část I: Zákon o zbraních a střelivu](https://zbrojnitest.cz/otazky/okruh/zakon-o-zbranich-a-strelivu/)
+- [Část II: Prováděcí právní předpisy](https://zbrojnitest.cz/otazky/okruh/provadeci-pravni-predpisy/)
+- [Část III: Jiné právní předpisy](https://zbrojnitest.cz/otazky/okruh/jine-pravni-predpisy/)
+- [Část IV: Nauka o zbraních a střelivu](https://zbrojnitest.cz/otazky/okruh/nauka-o-zbranich-a-strelivu/)
+- [Část V: Zdravotnické minimum](https://zbrojnitest.cz/otazky/okruh/zdravotnicke-minimum/)
+- [Test nanečisto](https://zbrojnitest.cz/test/)
+- [Procvičování](https://zbrojnitest.cz/procvicovani/)
+- [Zdroje](https://zbrojnitest.cz/zdroje/)

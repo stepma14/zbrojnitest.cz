@@ -1,0 +1,109 @@
+User-agent: Googlebot
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+User-agent: Bingbot
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+User-agent: SeznamBot
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+User-agent: GPTBot
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+User-agent: OAI-SearchBot
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+User-agent: ChatGPT-User
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+User-agent: ClaudeBot
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+User-agent: Claude-SearchBot
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+User-agent: Claude-User
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+User-agent: PerplexityBot
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+User-agent: Applebot
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+User-agent: *
+Disallow: /procvicovani/hrat/
+Disallow: /procvicovani/odpovedi/
+Disallow: /test/probiha/
+Disallow: /test/vysledek/
+Disallow: /nastaveni/
+Disallow: /data/
+Allow: /
+
+Sitemap: https://zbrojnitest.cz/sitemap.xml
